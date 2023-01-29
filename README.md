@@ -6,9 +6,9 @@ The repository contains a Power BI report, a SQL script, and initial exploratory
 ## Extract Transform Load (ETL) in Power BI
 1.	Connected to SQL server 
 2.	Created relationships between tables using Power BI’s data modelling
-3.	Cleaned data
-a)	Sales amount <= 0 in the transaction table, filtered these rows
-b)	INR and USD have extra characters (hidden), cleaned 
-c)	Normalized currency to CAD from INR and USD 
+3.	Cleaned data\
+a)	Sales amount <= 0 in the transaction table, filtered these rows\
+b)	INR and USD have extra characters (hidden), cleaned\
+c)	Normalized currency to CAD from INR and USD
 4.	Applied all transformations and loaded. 
 
